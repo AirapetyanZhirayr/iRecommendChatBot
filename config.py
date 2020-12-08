@@ -1,0 +1,5 @@
+token='1470139134:AAGSj5-De7BTc-SWXOf3QlNLPrhtXOHcBXY'
+project_id='newagent-gm9v'
+# project_id='smalltalk1-33c5a'
+session_id = '123456789'
+language_code = 'ru'
