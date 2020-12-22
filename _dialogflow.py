@@ -1,4 +1,3 @@
-
 def detect_intent_texts(project_id, session_id, texts, language_code):
     """Returns the result of detect intent with texts as inputs.
     Using the same `session_id` between requests allows continuation
