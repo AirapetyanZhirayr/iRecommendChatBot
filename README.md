@@ -6,5 +6,5 @@ the action and the intent of the input.
 
 config.py - some variables to acces the right agent in dialogflow (nothing interesting) 
 
-newagent-...b6.json - setting for the used agent (nothing interesting) 
+newagent-...b6.json - settings for the used agent (nothing interesting) 
 
