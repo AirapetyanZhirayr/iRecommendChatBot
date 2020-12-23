@@ -10,7 +10,9 @@ nlp_utils.py contains functions for extracting 'wish' from user's query. Algorit
       2. Looking for first inanimate noun;
       3. After found, looks for its dependent words;
       
-Example: input: 'Я хочу плюшевого медведя;
+Example: 
+         
+         input: 'Я хочу плюшевого медведя;
 
          output: 'плюшевого медведя';
          
